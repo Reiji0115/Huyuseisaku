@@ -1,5 +1,0 @@
-﻿  main.cpp
-  SceneMain.cpp
-  コードを生成中...
-C:\Users\EgamiReiji\Documents\GitHub\Huyuseisaku\Executor\Executor\main.cpp(1,10): error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
-C:\Users\EgamiReiji\Documents\GitHub\Huyuseisaku\Executor\Executor\SceneMain.cpp(2,10): error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
