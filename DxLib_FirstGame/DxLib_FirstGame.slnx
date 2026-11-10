@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="DxLib_FirstGame.vcxproj" Id="7b703334-87be-4185-8fe3-b21bb1468e30" />
-</Solution>
