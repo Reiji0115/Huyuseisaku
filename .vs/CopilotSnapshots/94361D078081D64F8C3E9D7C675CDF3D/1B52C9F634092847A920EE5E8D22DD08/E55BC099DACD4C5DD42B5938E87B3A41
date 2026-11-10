@@ -1,0 +1,36 @@
+﻿#include "DxLib.h"
+#include "Player.h"
+#include "Game.h"
+
+namespace
+{
+	int playerX = 0; // プレイヤーのX座標
+	int playerY = 0; // プレイヤーのY座標
+}
+
+void Player::Init()
+{
+	playerX = Game::kScreenWidth / 2;
+	playerY = Game::kScreenHeight / 2;
+}
+
+void Player::End()
+{
+}
+
+void Player::Update()
+{
+	if (CheckHitKey(KEY_INPUT_LEFT) == 1)
+	{
+		playerX -= 5;
+	}
+	if (CheckHitKey(KEY_INPUT_RIGHT) == 1)
+	{
+		playerX += 5;
+	}
+}
+
+void Player::Draw()
+{
+	DrawBox(playerX - 25, playerY - 25, playerX + 25, playerY + 25, GetColor(255, 0, 0), TRUE);
+}

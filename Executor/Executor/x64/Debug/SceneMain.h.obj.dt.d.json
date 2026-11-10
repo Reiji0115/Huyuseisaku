@@ -1,0 +1,12 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\egamireiji\\documents\\github\\huyuseisaku\\executor\\scenemain.h",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\egamireiji\\documents\\github\\huyuseisaku\\executor\\player.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

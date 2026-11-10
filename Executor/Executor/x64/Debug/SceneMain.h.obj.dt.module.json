@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Executor\\x64\\Debug\\SceneMain.obj",
+            "outputs": [
+                "Executor\\x64\\Debug\\SceneMain.h.obj.dt.module.json",
+                "Executor\\x64\\Debug\\SceneMain.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

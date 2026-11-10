@@ -5,6 +5,7 @@
         "ProvidedModule": "",
         "Includes": [
             "c:\\users\\egamireiji\\documents\\github\\huyuseisaku\\executor\\scenemain.h",
+            "c:\\users\\egamireiji\\documents\\github\\huyuseisaku\\executor\\player.h",
             "c:\\users\\egamireiji\\documents\\dxlib_vc\\プロジェクトに追加すべきファイル_vc用\\dxlib.h",
             "c:\\users\\egamireiji\\documents\\dxlib_vc\\プロジェクトに追加すべきファイル_vc用\\dxcompileconfig.h",
             "c:\\users\\egamireiji\\documents\\dxlib_vc\\プロジェクトに追加すべきファイル_vc用\\dxdatatype.h",

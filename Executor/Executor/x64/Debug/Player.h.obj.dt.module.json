@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Executor\\x64\\Debug\\Player.obj",
+            "outputs": [
+                "Executor\\x64\\Debug\\Player.h.obj.dt.module.json",
+                "Executor\\x64\\Debug\\Player.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
