@@ -3,10 +3,10 @@
     "revision": 0,
     "rules": [
         {
-            "primary-output": "x64\\Debug\\SceneMain.obj",
+            "primary-output": "Executor\\x64\\Debug\\SceneMain.obj",
             "outputs": [
-                "x64\\Debug\\SceneMain.cpp.obj.dt.module.json",
-                "x64\\Debug\\SceneMain.cpp.obj.dt.d.json"
+                "Executor\\x64\\Debug\\SceneMain.cpp.obj.dt.module.json",
+                "Executor\\x64\\Debug\\SceneMain.cpp.obj.dt.d.json"
             ],
             "requires": []
         }
