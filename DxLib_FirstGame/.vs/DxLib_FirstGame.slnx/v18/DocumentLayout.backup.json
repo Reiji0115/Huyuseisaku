@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EgamiReiji\\Documents\\GitHub\\Huyuseisaku\\DxLib_FirstGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B703334-87BE-4185-8FE3-B21BB1468E30}|DxLib_FirstGame.vcxproj|C:\\Users\\EgamiReiji\\Documents\\GitHub\\Huyuseisaku\\DxLib_FirstGame\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B703334-87BE-4185-8FE3-B21BB1468E30}|DxLib_FirstGame.vcxproj|solutionrelative:Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B703334-87BE-4185-8FE3-B21BB1468E30}|DxLib_FirstGame.vcxproj|C:\\Users\\EgamiReiji\\Documents\\GitHub\\Huyuseisaku\\DxLib_FirstGame\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B703334-87BE-4185-8FE3-B21BB1468E30}|DxLib_FirstGame.vcxproj|solutionrelative:Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B703334-87BE-4185-8FE3-B21BB1468E30}|DxLib_FirstGame.vcxproj|C:\\Users\\EgamiReiji\\Documents\\GitHub\\Huyuseisaku\\DxLib_FirstGame\\SceneMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B703334-87BE-4185-8FE3-B21BB1468E30}|DxLib_FirstGame.vcxproj|solutionrelative:SceneMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B703334-87BE-4185-8FE3-B21BB1468E30}|DxLib_FirstGame.vcxproj|C:\\Users\\EgamiReiji\\Documents\\GitHub\\Huyuseisaku\\DxLib_FirstGame\\SceneMain.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B703334-87BE-4185-8FE3-B21BB1468E30}|DxLib_FirstGame.vcxproj|solutionrelative:SceneMain.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B703334-87BE-4185-8FE3-B21BB1468E30}|DxLib_FirstGame.vcxproj|C:\\Users\\EgamiReiji\\Documents\\GitHub\\Huyuseisaku\\DxLib_FirstGame\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B703334-87BE-4185-8FE3-B21BB1468E30}|DxLib_FirstGame.vcxproj|solutionrelative:Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B703334-87BE-4185-8FE3-B21BB1468E30}|DxLib_FirstGame.vcxproj|C:\\Users\\EgamiReiji\\Documents\\GitHub\\Huyuseisaku\\DxLib_FirstGame\\Bg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B703334-87BE-4185-8FE3-B21BB1468E30}|DxLib_FirstGame.vcxproj|solutionrelative:Bg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B703334-87BE-4185-8FE3-B21BB1468E30}|DxLib_FirstGame.vcxproj|C:\\Users\\EgamiReiji\\Documents\\GitHub\\Huyuseisaku\\DxLib_FirstGame\\Item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B703334-87BE-4185-8FE3-B21BB1468E30}|DxLib_FirstGame.vcxproj|solutionrelative:Item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B703334-87BE-4185-8FE3-B21BB1468E30}|DxLib_FirstGame.vcxproj|C:\\Users\\EgamiReiji\\Documents\\GitHub\\Huyuseisaku\\DxLib_FirstGame\\Bg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B703334-87BE-4185-8FE3-B21BB1468E30}|DxLib_FirstGame.vcxproj|solutionrelative:Bg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SceneMain.cpp",
+              "DocumentMoniker": "C:\\Users\\EgamiReiji\\Documents\\GitHub\\Huyuseisaku\\DxLib_FirstGame\\SceneMain.cpp",
+              "RelativeDocumentMoniker": "SceneMain.cpp",
+              "ToolTip": "C:\\Users\\EgamiReiji\\Documents\\GitHub\\Huyuseisaku\\DxLib_FirstGame\\SceneMain.cpp",
+              "RelativeToolTip": "SceneMain.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-09T06:31:21.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SceneMain.h",
+              "DocumentMoniker": "C:\\Users\\EgamiReiji\\Documents\\GitHub\\Huyuseisaku\\DxLib_FirstGame\\SceneMain.h",
+              "RelativeDocumentMoniker": "SceneMain.h",
+              "ToolTip": "C:\\Users\\EgamiReiji\\Documents\\GitHub\\Huyuseisaku\\DxLib_FirstGame\\SceneMain.h",
+              "RelativeToolTip": "SceneMain.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-02T02:46:56.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\Users\\EgamiReiji\\Documents\\GitHub\\Huyuseisaku\\DxLib_FirstGame\\Player.h",
+              "RelativeDocumentMoniker": "Player.h",
+              "ToolTip": "C:\\Users\\EgamiReiji\\Documents\\GitHub\\Huyuseisaku\\DxLib_FirstGame\\Player.h",
+              "RelativeToolTip": "Player.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-02T02:12:23.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "C:\\Users\\EgamiReiji\\Documents\\GitHub\\Huyuseisaku\\DxLib_FirstGame\\Player.cpp",
+              "RelativeDocumentMoniker": "Player.cpp",
+              "ToolTip": "C:\\Users\\EgamiReiji\\Documents\\GitHub\\Huyuseisaku\\DxLib_FirstGame\\Player.cpp",
+              "RelativeToolTip": "Player.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-02T02:15:54.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Item.h",
+              "DocumentMoniker": "C:\\Users\\EgamiReiji\\Documents\\GitHub\\Huyuseisaku\\DxLib_FirstGame\\Item.h",
+              "RelativeDocumentMoniker": "Item.h",
+              "ToolTip": "C:\\Users\\EgamiReiji\\Documents\\GitHub\\Huyuseisaku\\DxLib_FirstGame\\Item.h",
+              "RelativeToolTip": "Item.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-02T04:54:27.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bg.cpp",
+              "DocumentMoniker": "C:\\Users\\EgamiReiji\\Documents\\GitHub\\Huyuseisaku\\DxLib_FirstGame\\Bg.cpp",
+              "RelativeDocumentMoniker": "Bg.cpp",
+              "ToolTip": "C:\\Users\\EgamiReiji\\Documents\\GitHub\\Huyuseisaku\\DxLib_FirstGame\\Bg.cpp",
+              "RelativeToolTip": "Bg.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-02T06:01:30.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bg.h",
+              "DocumentMoniker": "C:\\Users\\EgamiReiji\\Documents\\GitHub\\Huyuseisaku\\DxLib_FirstGame\\Bg.h",
+              "RelativeDocumentMoniker": "Bg.h",
+              "ToolTip": "C:\\Users\\EgamiReiji\\Documents\\GitHub\\Huyuseisaku\\DxLib_FirstGame\\Bg.h",
+              "RelativeToolTip": "Bg.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-02T06:01:26.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Game.h",
+              "DocumentMoniker": "C:\\Users\\EgamiReiji\\Documents\\GitHub\\Huyuseisaku\\DxLib_FirstGame\\Game.h",
+              "RelativeDocumentMoniker": "Game.h",
+              "ToolTip": "C:\\Users\\EgamiReiji\\Documents\\GitHub\\Huyuseisaku\\DxLib_FirstGame\\Game.h",
+              "RelativeToolTip": "Game.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-02T01:56:40.306Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

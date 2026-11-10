@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\egamireiji\\documents\\github\\huyuseisaku\\dxlib_firstgame\\scenemain.h",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\egamireiji\\documents\\github\\huyuseisaku\\dxlib_firstgame\\player.h",
+            "c:\\users\\egamireiji\\documents\\github\\huyuseisaku\\dxlib_firstgame\\bg.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

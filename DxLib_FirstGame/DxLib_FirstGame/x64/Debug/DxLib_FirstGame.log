@@ -1,0 +1,12 @@
+﻿  Bg.cpp
+  Player.cpp
+C:\Users\EgamiReiji\Documents\GitHub\Huyuseisaku\DxLib_FirstGame\Player.cpp(146,21): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\EgamiReiji\Documents\GitHub\Huyuseisaku\DxLib_FirstGame\Player.cpp(146,16): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\EgamiReiji\Documents\GitHub\Huyuseisaku\DxLib_FirstGame\Player.cpp(155,56): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\EgamiReiji\Documents\GitHub\Huyuseisaku\DxLib_FirstGame\Player.cpp(155,43): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\EgamiReiji\Documents\GitHub\Huyuseisaku\DxLib_FirstGame\Player.cpp(155,26): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  SceneMain.cpp
+C:\Users\EgamiReiji\Documents\GitHub\Huyuseisaku\DxLib_FirstGame\SceneMain.cpp(90,61): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  main.cpp
+  コードを生成中...
+  DxLib_FirstGame.vcxproj -> C:\Users\EgamiReiji\Documents\GitHub\Huyuseisaku\DxLib_FirstGame\x64\Debug\DxLib_FirstGame.exe

@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "DxLib_FirstGame\\x64\\Debug\\Bg.obj",
+            "outputs": [
+                "DxLib_FirstGame\\x64\\Debug\\Bg.cpp.obj.dt.module.json",
+                "DxLib_FirstGame\\x64\\Debug\\Bg.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
