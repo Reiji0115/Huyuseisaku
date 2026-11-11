@@ -9,6 +9,8 @@ namespace
 	float playerVelocityY = 0.0f; // プレイヤーのY方向の速度
 	constexpr float kGravity = 0.5f;
 	constexpr int kPlayerHalfSize = 25;
+
+	
 }
 
 void Player::Init()
@@ -16,6 +18,8 @@ void Player::Init()
 	playerX = Game::kScreenWidth / 2;
 	playerY = Game::kScreenHeight / 2;
 	playerVelocityY = 0.0f;
+
+	playerGraph = LoadGraph("sozai/image/player2.png");
 }
 
 void Player::End()
@@ -51,11 +55,24 @@ void Player::Update()
 
 void Player::Draw()
 {
-	DrawBox(
+	if (playerGraph == -1)
+	{
+		DrawBox(
+			playerX - kPlayerHalfSize,
+			static_cast<int>(playerY) - kPlayerHalfSize,
+			playerX + kPlayerHalfSize,
+			static_cast<int>(playerY) + kPlayerHalfSize,
+			GetColor(255, 0, 0),
+			TRUE);
+
+		return;
+	}
+	
+	DrawExtendGraph(
 		playerX - kPlayerHalfSize,
 		static_cast<int>(playerY) - kPlayerHalfSize,
 		playerX + kPlayerHalfSize,
 		static_cast<int>(playerY) + kPlayerHalfSize,
-		GetColor(255, 0, 0),
+		playerGraph,
 		TRUE);
 }

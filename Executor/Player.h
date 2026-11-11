@@ -6,5 +6,7 @@ public:
 	void End();
 	void Update();
 	void Draw();
+
+	int playerGraph;
 };
 
