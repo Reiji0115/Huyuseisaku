@@ -1,3 +1,2 @@
-﻿  Player.cpp
-C:\Users\EgamiReiji\Documents\GitHub\Huyuseisaku\Executor\Player.cpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+﻿  SceneMain.cpp
   Executor.vcxproj -> C:\Users\EgamiReiji\Documents\GitHub\Huyuseisaku\Executor\x64\Debug\Executor.exe

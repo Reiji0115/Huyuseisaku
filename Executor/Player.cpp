@@ -5,7 +5,7 @@
 namespace
 {
 	int playerX = 0; // プレイヤーのX座標
-	float playerY = 0.0f; // プレイヤーのY座標
+	int playerY = 0; // プレイヤーのY座標
 	float playerVelocityY = 0.0f; // プレイヤーのY方向の速度
 	constexpr float kGravity = 0.5f;
 	constexpr int kPlayerHalfSize = 25;
@@ -68,6 +68,7 @@ void Player::Draw()
 		return;
 	}
 	
+	// プレイヤーの画像を描画
 	DrawExtendGraph(
 		playerX - kPlayerHalfSize,
 		static_cast<int>(playerY) - kPlayerHalfSize,
@@ -75,4 +76,14 @@ void Player::Draw()
 		static_cast<int>(playerY) + kPlayerHalfSize,
 		playerGraph,
 		TRUE);
+}
+
+int Player::GetX() const
+{
+	return playerX;
+}
+
+int Player::GetY() const
+{
+	return playerY;
 }
