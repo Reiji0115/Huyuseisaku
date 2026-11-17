@@ -1,8 +1,5 @@
-﻿  main.cpp
-  Player.cpp
-C:\Users\PC_USER\Documents\GitHub\TeamRepository\Huyuseisaku\Executor\Player.cpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
-C:\Users\PC_USER\Documents\GitHub\TeamRepository\Huyuseisaku\Executor\Player.cpp(46,13): warning C4244: '+=': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\PC_USER\Documents\GitHub\TeamRepository\Huyuseisaku\Executor\Player.cpp(51,13): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
-  SceneMain.cpp
-  コードを生成中...
-  Executor.vcxproj -> C:\Users\PC_USER\Documents\GitHub\TeamRepository\Huyuseisaku\Executor\x64\Debug\Executor.exe
+﻿  Player.cpp
+C:\Users\EgamiReiji\Documents\GitHub\Huyuseisaku\Executor\Player.cpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\EgamiReiji\Documents\GitHub\Huyuseisaku\Executor\Player.cpp(46,13): warning C4244: '+=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\EgamiReiji\Documents\GitHub\Huyuseisaku\Executor\Player.cpp(51,13): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+  Executor.vcxproj -> C:\Users\EgamiReiji\Documents\GitHub\Huyuseisaku\Executor\x64\Debug\Executor.exe
