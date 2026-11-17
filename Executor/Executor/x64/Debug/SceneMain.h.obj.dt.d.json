@@ -4,7 +4,8 @@
         "Source": "c:\\users\\egamireiji\\documents\\github\\huyuseisaku\\executor\\scenemain.h",
         "ProvidedModule": "",
         "Includes": [
-            "c:\\users\\egamireiji\\documents\\github\\huyuseisaku\\executor\\player.h"
+            "c:\\users\\egamireiji\\documents\\github\\huyuseisaku\\executor\\player.h",
+            "c:\\users\\egamireiji\\documents\\github\\huyuseisaku\\executor\\actor.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

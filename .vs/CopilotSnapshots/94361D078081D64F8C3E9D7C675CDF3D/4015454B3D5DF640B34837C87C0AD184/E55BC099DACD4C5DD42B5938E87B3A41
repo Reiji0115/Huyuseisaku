@@ -1,0 +1,84 @@
+﻿#include "DxLib.h"
+#include "Player.h"
+#include "Game.h"
+
+namespace
+{
+	constexpr float kGravity = 0.5f;
+	constexpr int kPlayerHalfSize = 25;
+}
+
+void Player::Init()
+{
+	m_playerX = Game::kScreenWidth / 2;
+	m_playerY = Game::kScreenHeight / 2;
+	m_playerVelocityY = 0.0f;
+
+	m_playerGraph = LoadGraph("sozai/image/player2.png");
+}
+
+void Player::End()
+{
+}
+
+void Player::Update()
+{
+	if (CheckHitKey(KEY_INPUT_LEFT) == 1)
+	{
+		m_playerX -= 5;
+	}
+	if (CheckHitKey(KEY_INPUT_RIGHT) == 1)
+	{
+		m_playerX += 5;
+	}
+
+	if (CheckHitKey(KEY_INPUT_SPACE) == 1)
+	{
+		m_playerVelocityY = -10.0f;
+	}
+
+	m_playerVelocityY += kGravity;
+	m_playerY += static_cast<int>(m_playerVelocityY);
+
+	const float floorY = Game::kScreenHeight - kPlayerHalfSize;
+	if (m_playerY >= floorY)
+	{
+		m_playerY = static_cast<int>(floorY);
+		m_playerVelocityY = 0.0f;
+	}
+}
+
+void Player::Draw()
+{
+	if (m_playerGraph == -1)
+	{
+		DrawBox(
+			m_playerX - kPlayerHalfSize,
+			m_playerY - kPlayerHalfSize,
+			m_playerX + kPlayerHalfSize,
+			m_playerY + kPlayerHalfSize,
+			GetColor(255, 0, 0),
+			TRUE);
+
+		return;
+	}
+	
+	// プレイヤーの画像を描画
+	DrawExtendGraph(
+		m_playerX - kPlayerHalfSize,
+		m_playerY - kPlayerHalfSize,
+		m_playerX + kPlayerHalfSize,
+		m_playerY + kPlayerHalfSize,
+		m_playerGraph,
+		TRUE);
+}
+
+int Player::GetX() const
+{
+	return m_playerX;
+}
+
+int Player::GetY() const
+{
+	return m_playerY;
+}

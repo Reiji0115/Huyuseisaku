@@ -1,0 +1,18 @@
+﻿#pragma once
+#include"Actor.h"
+class Player : public Actor
+{
+public:
+	void Update()override;
+	void Draw()override;
+
+	int GetX() const;
+	int GetY() const;
+
+	int playerGraph;
+
+private:
+	int m_playerX = 0; // プレイヤーのX座標
+	int m_playerY = 0; // プレイヤーのY座標
+};
+

@@ -3,7 +3,9 @@
     "Data": {
         "Source": "c:\\users\\egamireiji\\documents\\github\\huyuseisaku\\executor\\player.h",
         "ProvidedModule": "",
-        "Includes": [],
+        "Includes": [
+            "c:\\users\\egamireiji\\documents\\github\\huyuseisaku\\executor\\actor.h"
+        ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
     }

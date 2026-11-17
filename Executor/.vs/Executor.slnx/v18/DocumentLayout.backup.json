@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\EgamiReiji\\Documents\\GitHub\\Huyuseisaku\\Executor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{14AC39AB-CEBC-4161-AFC4-52D9CEB5713E}|Executor.vcxproj|C:\\Users\\EgamiReiji\\Documents\\GitHub\\Huyuseisaku\\Executor\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{14AC39AB-CEBC-4161-AFC4-52D9CEB5713E}|Executor.vcxproj|solutionrelative:Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{14AC39AB-CEBC-4161-AFC4-52D9CEB5713E}|Executor.vcxproj|C:\\Users\\EgamiReiji\\Documents\\GitHub\\Huyuseisaku\\Executor\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{14AC39AB-CEBC-4161-AFC4-52D9CEB5713E}|Executor.vcxproj|solutionrelative:Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{14AC39AB-CEBC-4161-AFC4-52D9CEB5713E}|Executor.vcxproj|C:\\Users\\EgamiReiji\\Documents\\GitHub\\Huyuseisaku\\Executor\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{14AC39AB-CEBC-4161-AFC4-52D9CEB5713E}|Executor.vcxproj|solutionrelative:Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14AC39AB-CEBC-4161-AFC4-52D9CEB5713E}|Executor.vcxproj|C:\\Users\\EgamiReiji\\Documents\\GitHub\\Huyuseisaku\\Executor\\Actor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{14AC39AB-CEBC-4161-AFC4-52D9CEB5713E}|Executor.vcxproj|solutionrelative:Actor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14AC39AB-CEBC-4161-AFC4-52D9CEB5713E}|Executor.vcxproj|C:\\Users\\EgamiReiji\\Documents\\GitHub\\Huyuseisaku\\Executor\\Collision.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{14AC39AB-CEBC-4161-AFC4-52D9CEB5713E}|Executor.vcxproj|solutionrelative:Collision.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14AC39AB-CEBC-4161-AFC4-52D9CEB5713E}|Executor.vcxproj|C:\\Users\\EgamiReiji\\Documents\\GitHub\\Huyuseisaku\\Executor\\Actor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{14AC39AB-CEBC-4161-AFC4-52D9CEB5713E}|Executor.vcxproj|solutionrelative:Actor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{14AC39AB-CEBC-4161-AFC4-52D9CEB5713E}|Executor.vcxproj|C:\\Users\\EgamiReiji\\Documents\\GitHub\\Huyuseisaku\\Executor\\SceneMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{14AC39AB-CEBC-4161-AFC4-52D9CEB5713E}|Executor.vcxproj|solutionrelative:SceneMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14AC39AB-CEBC-4161-AFC4-52D9CEB5713E}|Executor.vcxproj|C:\\Users\\EgamiReiji\\Documents\\GitHub\\Huyuseisaku\\Executor\\Collision.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{14AC39AB-CEBC-4161-AFC4-52D9CEB5713E}|Executor.vcxproj|solutionrelative:Collision.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{14AC39AB-CEBC-4161-AFC4-52D9CEB5713E}|Executor.vcxproj|C:\\Users\\EgamiReiji\\Documents\\GitHub\\Huyuseisaku\\Executor\\SceneMain.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -26,49 +42,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SceneMain.h",
-              "DocumentMoniker": "C:\\Users\\EgamiReiji\\Documents\\GitHub\\Huyuseisaku\\Executor\\SceneMain.h",
-              "RelativeDocumentMoniker": "SceneMain.h",
-              "ToolTip": "C:\\Users\\EgamiReiji\\Documents\\GitHub\\Huyuseisaku\\Executor\\SceneMain.h",
-              "RelativeToolTip": "SceneMain.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-11-10T07:38:46.499Z"
+              "DocumentIndex": 2,
+              "Title": "Actor.cpp",
+              "DocumentMoniker": "C:\\Users\\EgamiReiji\\Documents\\GitHub\\Huyuseisaku\\Executor\\Actor.cpp",
+              "RelativeDocumentMoniker": "Actor.cpp",
+              "ToolTip": "C:\\Users\\EgamiReiji\\Documents\\GitHub\\Huyuseisaku\\Executor\\Actor.cpp",
+              "RelativeToolTip": "Actor.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-17T07:14:17.917Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "Actor.h",
+              "DocumentMoniker": "C:\\Users\\EgamiReiji\\Documents\\GitHub\\Huyuseisaku\\Executor\\Actor.h",
+              "RelativeDocumentMoniker": "Actor.h",
+              "ToolTip": "C:\\Users\\EgamiReiji\\Documents\\GitHub\\Huyuseisaku\\Executor\\Actor.h",
+              "RelativeToolTip": "Actor.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-17T04:51:32.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Collision.cpp",
+              "DocumentMoniker": "C:\\Users\\EgamiReiji\\Documents\\GitHub\\Huyuseisaku\\Executor\\Collision.cpp",
+              "RelativeDocumentMoniker": "Collision.cpp",
+              "ToolTip": "C:\\Users\\EgamiReiji\\Documents\\GitHub\\Huyuseisaku\\Executor\\Collision.cpp",
+              "RelativeToolTip": "Collision.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-17T06:44:53.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Collision.h",
+              "DocumentMoniker": "C:\\Users\\EgamiReiji\\Documents\\GitHub\\Huyuseisaku\\Executor\\Collision.h",
+              "RelativeDocumentMoniker": "Collision.h",
+              "ToolTip": "C:\\Users\\EgamiReiji\\Documents\\GitHub\\Huyuseisaku\\Executor\\Collision.h",
+              "RelativeToolTip": "Collision.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-17T06:45:26.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Player.cpp",
               "DocumentMoniker": "C:\\Users\\EgamiReiji\\Documents\\GitHub\\Huyuseisaku\\Executor\\Player.cpp",
               "RelativeDocumentMoniker": "Player.cpp",
               "ToolTip": "C:\\Users\\EgamiReiji\\Documents\\GitHub\\Huyuseisaku\\Executor\\Player.cpp",
               "RelativeToolTip": "Player.cpp",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAwAgAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-11-10T07:21:04.452Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Player.h",
               "DocumentMoniker": "C:\\Users\\EgamiReiji\\Documents\\GitHub\\Huyuseisaku\\Executor\\Player.h",
               "RelativeDocumentMoniker": "Player.h",
               "ToolTip": "C:\\Users\\EgamiReiji\\Documents\\GitHub\\Huyuseisaku\\Executor\\Player.h",
               "RelativeToolTip": "Player.h",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-11-10T07:20:26.733Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "SceneMain.cpp",
               "DocumentMoniker": "C:\\Users\\EgamiReiji\\Documents\\GitHub\\Huyuseisaku\\Executor\\SceneMain.cpp",
               "RelativeDocumentMoniker": "SceneMain.cpp",
@@ -76,7 +132,21 @@
               "RelativeToolTip": "SceneMain.cpp",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-11-10T07:12:31.044Z"
+              "WhenOpened": "2026-11-10T07:12:31.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SceneMain.h",
+              "DocumentMoniker": "C:\\Users\\EgamiReiji\\Documents\\GitHub\\Huyuseisaku\\Executor\\SceneMain.h",
+              "RelativeDocumentMoniker": "SceneMain.h",
+              "ToolTip": "C:\\Users\\EgamiReiji\\Documents\\GitHub\\Huyuseisaku\\Executor\\SceneMain.h",
+              "RelativeToolTip": "SceneMain.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-10T07:38:46.499Z",
+              "EditorCaption": ""
             }
           ]
         }
