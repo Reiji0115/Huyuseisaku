@@ -18,4 +18,3 @@ private:
 	float m_playerVelocityY = 0.0f; // プレイヤーのY方向の速度
 	int m_playerGraph = -1;
 };
-
