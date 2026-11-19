@@ -1,0 +1,36 @@
+﻿#pragma once
+#include<memory>
+class Actor;//持ち主
+
+struct Circle
+{
+	float x; // 円の中心のX座標
+	float y; // 円の中心のY座標
+	float radius; // 円の半径
+};
+
+struct Rectangle
+{
+	float left; // 矩形の左端
+	float top; // 矩形の上端
+	float right; // 矩形の右端
+	float bottom; // 矩形の下端
+};
+
+class Collision
+{
+public:
+	static bool IsCircleHit(
+		const Circle& first,
+		const Circle& second
+	);
+	static bool IsRectangleHit(
+		const Rectangle& first,
+		const Rectangle& second
+	);
+
+	static bool IsCircleRectangleHit(
+		const Circle& circle,
+		const Rectangle& rectangle
+	);
+};
